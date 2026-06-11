@@ -24,7 +24,8 @@ If you notice any of these symptoms, contact emergency services immediately.
 ##### Quoting:
 You are playing with Electricity, always handle it with care.
 
-**Do not** touch the pins of the shocker while it is on, it may not cause permanent damage to your hand but it is extremely painful.
+**Do not** touch the pins of the shocker while it is on, it may not cause permanent damage to your hand but it is extremely painful.  
+- *[wiki.openshock.org/home/safety-rules](wiki.openshock.org/home/safety-rules)*
 
 # Running this application
 
