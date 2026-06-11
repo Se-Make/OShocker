@@ -38,7 +38,7 @@ You are playing with Electricity, always handle it with care.
 
 
 ## Installation
-
+0. If you know you have something running on port 24050, make sure to stop it or change tosu's port
 1. **Download** a recent Python version if needed
 2. **Install** webhooks library for python with pip:
   ```
