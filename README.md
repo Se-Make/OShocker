@@ -1,5 +1,7 @@
 # Welcome to OShocker!
 
+## This program is non-functional with real hardware for now but will be made functional once hardware arrives.
+
 ### SAFETY FIRST!
 
 #### You alone are responsible for any irresponsible use of this program and connected shocking devices  
