@@ -1,11 +1,11 @@
 # Welcome to OShocker!
 
-## SAFETY FIRST!
+### SAFETY FIRST!
 
-### You alone are responsible for irresponsible use of this program and possible shocking devices  
-#### Read up on safe practices at [wiki.openshock.org](https://wiki.openshock.org/home/safety-rules) or [pishock.com](https://pishock.com/) under "Safety"  
+#### You alone are responsible for irresponsible use of this program and possible shocking devices  
+##### Read up on safe practices at [wiki.openshock.org](https://wiki.openshock.org/home/safety-rules) or [pishock.com](https://pishock.com/) under "Safety"  
 
-## DO NOT PUT ANY SHOCKING DEVICE NEAR THESE AREAS
+### DO NOT PUT ANY SHOCKING DEVICE NEAR THESE AREAS
 ![alt text](https://wiki.openshock.org/_next/static/media/nogo-body-zones.0bhegjo49mhor.png)
 ## DOING SO MAY CAUSE INJURY
 ### Wearing the shocker near any of these Zones can cause:
@@ -19,7 +19,7 @@
 If you notice any of these symptoms contact emergency services immediately.
 
 
-#### Quoting:
+##### Quoting:
 You are playing with Electricity, always handle it with care.
 
 **Do not** touch the pins of the shocker while it's on, it may not cause permanent damage to your hand but it is extremely painful.
