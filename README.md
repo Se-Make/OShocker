@@ -1,4 +1,4 @@
-# OShocker!
+# Welcome to OShocker!
 
 ## SAFETY FIRST!
 
