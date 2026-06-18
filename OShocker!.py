@@ -32,6 +32,7 @@ try:
     f = open("config.txt")
 except FileNotFoundError:
     print("No config file found, run setup.py to create one...")
+    time.sleep(5)
     exit()
 else:
     with f:
