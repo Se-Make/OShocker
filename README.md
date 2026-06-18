@@ -55,12 +55,14 @@ You are playing with Electricity, always handle it with care.
   # if pip fails, try:
   pip install requests --user
   ```
-4. **Download** Tosu and extract the zip wherever, this is where I recommend keeping this python script for easy access.
-5. **Open** Osu! (Only tested on lazer) **and** tosu.exe
-6. Once **both** applications have been opened, you may run this python script and configure your experience.  
+4. **Download** Tosu and extract the zip wherever, this is where I recommend keeping this project too for easy access.
+5. **Download** This project as a zip and extract it in the tosu folder.
+6. **Run** Setup.py before launching OShocker!, follow the instructions until setup finishes.
+7. **Open** Osu! (Only tested on lazer) **and** tosu.exe
+8. Once **both** applications have been opened, you may run OShocker!.py and configure your experience.  
 
 P.S:  
-Avoid opening this script while a song is paused, it may register a shock.
+Avoid opening OShocker! while a song is paused, it may register a shock.
 
 
 ## Features
