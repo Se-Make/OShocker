@@ -32,6 +32,7 @@ try:
     f = open("config.txt")
 except FileNotFoundError:
     print("No config file found, run setup.py to create one...")
+    exit()
 else:
     with f:
         lines = f.read().splitlines()
