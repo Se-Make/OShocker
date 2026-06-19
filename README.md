@@ -1,6 +1,6 @@
 
 <p align="Center">
-  <img src="https://github.com/Se-Make/OShocker/blob/main/OShocker!_Banner.png?raw=true" alt="drawing" width="1000"/>
+  <img src="OShocker!_Banner.png" alt="drawing" width="1000"/>
 </p>
 
 # Welcome to OShocker!
