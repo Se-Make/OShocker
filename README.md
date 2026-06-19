@@ -1,6 +1,6 @@
 # Welcome to OShocker!
 
-## This program is non-functional with real hardware for now but will be made functional once hardware arrives.
+## This program is currently only functional with OpenShock as I do not have access to PiShock hardware.
 
 ### SAFETY FIRST!
 
@@ -33,6 +33,7 @@ You are playing with Electricity, always handle it with care.
 
 [Python 3](https://www.python.org/downloads/) : For running the program.  
 [Webhooks library](https://pypi.org/project/webhooks/) : For connecting to Tosu  
+[Requests library](https://pypi.org/project/requests/) : For sending API calls  
 [Tosu](https://github.com/tosuapp/tosu) : To read data from the game.  
 [Osu! (Lazer)](https://osu.ppy.sh/home/download) : The game itself
 
@@ -47,12 +48,21 @@ You are playing with Electricity, always handle it with care.
   # if pip fails, try:
   pip install webhooks --user
   ```
-3. **Download** Tosu and extract the zip wherever, this is where I recommend keeping this python script for easy access.
-4. **Open** Osu! (Only tested on lazer) **and** tosu.exe
-5. Once **both** applications have been opened, you may run this python script and configure your experience.  
+3. **Install** requests library for python with pip:
+  ```
+  pip install requests
+
+  # if pip fails, try:
+  pip install requests --user
+  ```
+4. **Download** Tosu and extract the zip wherever, this is where I recommend keeping this project too for easy access.
+5. **Download** This project as a zip and extract it in the tosu folder.
+6. **Run** Setup.py before launching OShocker!, follow the instructions until setup finishes.
+7. **Open** Osu! (Only tested on lazer) **and** tosu.exe
+8. Once **both** applications have been opened, you may run OShocker!.py and configure your experience.  
 
 P.S:  
-Avoid opening this script while a song is paused, it may register a shock.
+Avoid opening OShocker! while a song is paused, it may register a shock.
 
 
 ## Features
@@ -61,4 +71,5 @@ Avoid opening this script while a song is paused, it may register a shock.
 * Shock duration (0 - 10sec)
 * Shock cooldown (0 - 10sec)
 * Dynamic Shock (Increases intensity during a song by 5% every time you miss, resets back to normal after a retry or song change)
+* Shock cap for dynamic shock
 * Seems to work with every Osu! game mode so far
