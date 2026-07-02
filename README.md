@@ -13,7 +13,8 @@
 ##### Read about safe practices at [wiki.openshock.org](https://wiki.openshock.org/home/safety-rules) or [pishock.com](https://pishock.com/) under "Safety"  
 
 ### DO NOT WEAR ANY SHOCKING DEVICE NEAR THESE AREAS
-![alt text](https://wiki.openshock.org/_next/static/media/nogo-body-zones.0bhegjo49mhor.png)
+<img src="Safety.png"/>  
+
 ## DOING SO MAY CAUSE INJURY
 ### Wearing the shocker near any of these Zones can cause:
 
