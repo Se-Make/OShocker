@@ -1,5 +1,9 @@
 import time
 import requests
+import subprocess
+import sys
+
+subprocess.check_call([sys.executable, "-m", "pip", "install", "-r", "requirements.txt", "--target", "."])
 
 SHOCKER_UUID = ""
 API_TOKEN = ""
