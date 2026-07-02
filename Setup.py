@@ -28,7 +28,9 @@ def send_control(SHOCKER_UUID: str, API_TOKEN: str, control_type: str, intensity
     response.raise_for_status()
     return response
 
-
+print()
+print()
+print()
 print("This is a setup for OShocker! by SeMake")
 time.sleep(2)
 
