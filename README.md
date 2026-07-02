@@ -66,3 +66,8 @@ Avoid opening OShocker! while a song is paused, it may register a shock.
 * Dynamic Shock (Increases intensity during a song by 5% every time you miss, resets back to normal after a retry or song change)
 * Shock cap for dynamic shock
 * Seems to work with every Osu! game mode so far
+
+## To-Do list
+* Add functionality to change settings while program is running
+* Save settings accross sessions
+* GUI window for recording/streaming
