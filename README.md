@@ -39,8 +39,8 @@ You are playing with Electricity, always handle it with care.
 
 [Python 3](https://www.python.org/downloads/) : For running the program.  
 [Webhooks library](https://pypi.org/project/webhooks/) : For connecting to Tosu  
-[Requests library](https://pypi.org/project/requests/) : For sending API calls 
-[Websockets library](https://pypi.org/project/websockets/) : For websockets
+[Requests library](https://pypi.org/project/requests/) : For sending API calls  
+[Websockets library](https://pypi.org/project/websockets/) : For websockets  
 [Tosu](https://github.com/tosuapp/tosu) : To read data from the game.  
 [Osu! (Lazer)](https://osu.ppy.sh/home/download) : The game itself
 
