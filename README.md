@@ -47,25 +47,11 @@ You are playing with Electricity, always handle it with care.
 ## Installation
 0. If you know you have something running on port 24050, make sure to stop it or change tosu's port
 1. **Download** a recent Python version if needed
-2. **Install** webhooks library for python with pip:
-  ```
-  pip install webhooks
-
-  # if pip fails, try:
-  pip install webhooks --user
-  ```
-3. **Install** requests library for python with pip:
-  ```
-  pip install requests
-
-  # if pip fails, try:
-  pip install requests --user
-  ```
-4. **Download** Tosu and extract the zip wherever, this is where I recommend keeping this project too for easy access.
-5. **Download** This project as a zip and extract it in the tosu folder.
-6. **Run** Setup.py before launching OShocker!, follow the instructions until setup finishes.
-7. **Open** Osu! (Only tested on lazer) **and** tosu.exe
-8. Once **both** applications have been opened, you may run OShocker!.py and configure your experience.  
+2. **Download** Tosu and extract the zip wherever, this is where I recommend keeping this project too for easy access.
+3. **Download** This project as a zip and extract it in the tosu folder.
+4. **Run** Setup.py before launching OShocker!, follow the instructions until setup finishes.
+5. **Open** Osu! (Only tested on lazer) **and** tosu.exe
+6. Once **both** applications have been opened, you may run OShocker!.py and configure your experience.  
 
 P.S:  
 Avoid opening OShocker! while a song is paused, it may register a shock.
